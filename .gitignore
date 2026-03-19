@@ -1,0 +1,4 @@
+WordTech/pycache/
+sitio/__pycache__/
+WordTech/migrations/pycache/
+db.sqlite3
